@@ -11,10 +11,10 @@ return [
     'new_users' => 'Visitas nuevas',
     'visits' => 'visitas',
     'views' => 'Vistas',
-    'view_id_not_specified' => 'Debe proporcionar una identificación  válida. Ver guía: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
-    'credential_is_not_valid' => 'Las credenciales de Analytics no son válidas. La guía de configuración está aquí:  <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
+    'view_id_not_specified' => 'Debe proporcionar una identificación  válida. Ver guía: <a href="https://docs.puzzvel.com/cms/:version/plugin-analytics" target="_blank">https://docs.puzzvel.com/cms/:version/plugin-analytics</a>',
+    'credential_is_not_valid' => 'Las credenciales de Analytics no son válidas. La guía de configuración está aquí:  <a href="https://docs.puzzvel.com/cms/:version/plugin-analytics" target="_blank">https://docs.puzzvel.com/cms/:version/plugin-analytics</a>',
     'start_date_can_not_before_end_date' => 'La fecha de inicio :start_date cannot no puede ser posterior a la fecha de finalización :end_date',
-    'wrong_configuration' => 'Para ver las estadísticas, deberá obtener una ID en Google Analytics y agregarla a su configuración.  <br /> También necesita datos de credenciales JSON. <br /> La documentación la puede encontrar aquí: <a href="https://docs.botble.com/cms/:version/plugin-analytics" target="_blank">https://docs.botble.com/cms/:version/plugin-analytics</a>',
+    'wrong_configuration' => 'Para ver las estadísticas, deberá obtener una ID en Google Analytics y agregarla a su configuración.  <br /> También necesita datos de credenciales JSON. <br /> La documentación la puede encontrar aquí: <a href="https://docs.puzzvel.com/cms/:version/plugin-analytics" target="_blank">https://docs.puzzvel.com/cms/:version/plugin-analytics</a>',
     'settings' => [
         'title' => 'Google Analytics',
         'description' => 'Configuración para Google Analytics',
